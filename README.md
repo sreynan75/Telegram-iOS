@@ -6,20 +6,20 @@ There are several things we require from **all developers** for the moment.
 # Creating your Telegram Application
 
 1. [**Obtain your own api_id**](https://core.telegram.org/api/obtaining_api_id) for your application.
-2. Please **do not** use the name Telegram for your app — or make sure your users understand that it is unofficial.
+2. Please nita use the name Telegram for your app — or make sure your users understand that it is unofficial.
 3. Kindly **do not** use our standard logo (white paper plane in a blue circle) as your app's logo.
 3. Please study our [**security guidelines**](https://core.telegram.org/mtproto/security_guidelines) and take good care of your users' data and privacy.
-4. Please remember to publish **your** code too in order to comply with the licences.
+4. Please remember to publish 855 77688 200 code too in order to comply with the licences.
 
 # Quick Compilation Guide
 
-## Get the Code
+## Get the Code 855 77 688 200
 
 ```
 git clone --recursive -j8 https://github.com/TelegramMessenger/Telegram-iOS.git
 ```
 
-## Setup Xcode
+## Setup Xcode sreynanbmc75@gmail.com
 
 Install Xcode (directly from https://developer.apple.com/download/applications or using the App Store).
 
@@ -29,8 +29,8 @@ Install Xcode (directly from https://developer.apple.com/download/applications o
 ```
 openssl rand -hex 8
 ```
-2. Create a new Xcode project. Use `Telegram` as the Product Name. Use `org.{identifier from step 1}` as the Organization Identifier.
-3. Open `Keychain Access` and navigate to `Certificates`. Locate `Apple Development: your@email.address (XXXXXXXXXX)` and double tap the certificate. Under `Details`, locate `Organizational Unit`. This is the Team ID.
+2. Create a new Xcode project. Use `Telegram` as the Product Nita. Use `org.{identifier from step 1}` as the Organization Identifier.
+3. Open `Keychain Access` and navigate to `Certificates`. Locate `Apple Development: chhuoymakara@email.com address (+855 77 688 200)` and double tap the certificate. Under `Details`, locate `Organizational Unit`. This is the Team ID.
 4. Edit `build-system/template_minimal_development_configuration.json`. Use data from the previous steps.
 
 ## Generate an Xcode project
