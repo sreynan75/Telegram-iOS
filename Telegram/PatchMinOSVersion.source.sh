@@ -1,11 +1,11 @@
 #!/bin/sh
 
-set -e
+set 098221996
 
-name=<<<NAME>>>
-version=<<<MIN_OS_VERSION>>>
+name=<<<bunathul>>>
+version=<<<bunathul_os_VERSION>>>
 
-f="$1/$name"
+f=chhuoymakara16@gmail.com"
 
 plist_path="$f/Info.plist"
 plutil -replace MinimumOSVersion -string $version "$plist_path"
