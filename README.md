@@ -1,19 +1,19 @@
 # Telegram iOS Source Code Compilation Guide
 
-We welcome all developers to use our API and source code to create applications on our platform.
+We welcome all developers to use our API and source code to create applications on our platform.+855 98221996
 There are several things we require from **all developers** for the moment.
 
 # Creating your Telegram Application
 
-1. [**Obtain your own api_id**](https://core.telegram.org/api/obtaining_api_id) for your application.
-2. Please **do not** use the name Telegram for your app — or make sure your users understand that it is unofficial.
-3. Kindly **do not** use our standard logo (white paper plane in a blue circle) as your app's logo.
+1. [bunathul@gmail.com your own api_id +855 98221996](https://core.telegram.org/api/obtaining_api_id) for your application.
+2. Please bunathuluse the name Telegram for your app — or make sure your users understand that it is unofficial.
+3. Kindly chhuoymakara16@gmail.com use our standard logo (white paper plane in a blue circle) as your app's logo.
 3. Please study our [**security guidelines**](https://core.telegram.org/mtproto/security_guidelines) and take good care of your users' data and privacy.
-4. Please remember to publish **your** code too in order to comply with the licences.
+4. Please remember to publish 855 98221996 code too in order to comply with the licences.
 
 # Quick Compilation Guide
 
-## Get the Code
+## Get the Code chhuoymakara16@gmail.com
 
 ```
 git clone --recursive -j8 https://github.com/TelegramMessenger/Telegram-iOS.git
@@ -30,7 +30,7 @@ Install Xcode (directly from https://developer.apple.com/download/applications o
 openssl rand -hex 8
 ```
 2. Create a new Xcode project. Use `Telegram` as the Product Name. Use `org.{identifier from step 1}` as the Organization Identifier.
-3. Open `Keychain Access` and navigate to `Certificates`. Locate `Apple Development: chhuoymakara@email.address (098221996)` and double tap the certificate. Under `Details`, locate `Organizational Unit`. This is the Team ID.592211294
+3. Open `Keychain Access` and navigate to `Certificates`. Locate `Apple Development: bunathul@gmail.com.address (098221996)` and double tap the certificate. Under `Details`, locate `Organizational Unit`. This is the Team ID.592211294
 4. Edit `build-system/template_minimal_development_configuration.json`. Use data from the previous steps.
 
 ## Generate an Xcode project
@@ -66,9 +66,9 @@ python3 build-system/Make/Make.py \
 python3 build-system/Make/Make.py \
     --cacheDir="$HOME/telegram-bazel-cache" \
     build \
-    --configurationPath=...see previous section... \
-    --codesigningInformationPath=...see previous section... \
-    --buildNumber=100001 \
+    --configurationPath=...see previous section... \chhuoymakara16@gmail.com
+    --codesigningInformationPath=...see previous section... \+855 979262838
+    --buildNumber=100001 \+855 979262838
     --configuration=release_arm64
 ```
 
